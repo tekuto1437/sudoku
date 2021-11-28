@@ -1,10 +1,8 @@
 # Projekta nosaukums
-#sudoku risinātājs
+Sudoku risinātājs
 ## Apraksts
 	Programma atrisina sudoku. Jums jāievada pareizais Sudoku.
 ## Galvenās funkcijas
-	- Ievadīt tekstu
-	- Apstrādāt datus
-	- utt
+	Programma izmanto programmēšanas metode backtracking.
 ## Izmantotās tehnoloģijas
 	- C++

@@ -6,3 +6,4 @@ Sudoku risinātājs
 	Programma izmanto programmēšanas metode backtracking.
 ## Izmantotās tehnoloģijas
 	- C++
+	- std
